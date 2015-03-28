@@ -13,3 +13,5 @@ Github is the hub of .git/ directories
 You can push and pull commits to and from .git/ directories
 
 you can also clone .git/ directories to new computers or new paths
+
+Pull requests are how you merge branches on GitHub
