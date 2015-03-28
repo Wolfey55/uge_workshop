@@ -186,7 +186,6 @@ sudo add-apt-repository ppa:yannubuntu/boot-repair
 sudo repository ppa:yannubuntu/boot-repair
 add-apt-repository ppa:yannubuntu/boot-repair
 git ll
-git lll
 git branch -d git-notes
 git merge git-notes
 git branch
@@ -194,18 +193,18 @@ git checkout master
 git checkout git-notes
 git commit -m 'add git notes'
 git status
-git add git_notes.txt 
+git add git_notes.txt
 subl  .
 subl .
-subl git_notes.txt 
+subl git_notes.txt
 git sta
 touch git_notes.txt
 git branch git-notes
 git la
 git log
 git commit -m 'Add notes about hidden folder'
-git add unix_notes.txt 
-subl unix_notes.txt 
+git add unix_notes.txt
+subl unix_notes.txt
 cd uge_workshop/
 cd
 git commit -m 'Add unix notes'
@@ -215,7 +214,7 @@ git init
 mv moving_around.txt uge_workshop/unix_notes.txt
 ll
 mkdir uge_workshop
-subl moving_around.txt 
+subl moving_around.txt
 history >> moving_around.txt
 history > moving_around.txt
 ls -l
@@ -300,4 +299,4 @@ sudo apt-get install -y boot-repair && boot-repair
 sudo add-apt-repository ppa:yannubuntu/boot-repair
 sudo repository ppa:yannubuntu/boot-repair
 add-apt-repository ppa:yannubuntu/boot-repair
-DDDDDDDDDDDDDDDPOOOOOOooooooooooooooooooo
+
