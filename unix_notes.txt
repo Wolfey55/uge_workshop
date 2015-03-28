@@ -185,3 +185,119 @@ sudo apt-get install -y boot-repair && boot-repair
 sudo add-apt-repository ppa:yannubuntu/boot-repair
 sudo repository ppa:yannubuntu/boot-repair
 add-apt-repository ppa:yannubuntu/boot-repair
+git ll
+git lll
+git branch -d git-notes
+git merge git-notes
+git branch
+git checkout master
+git checkout git-notes
+git commit -m 'add git notes'
+git status
+git add git_notes.txt 
+subl  .
+subl .
+subl git_notes.txt 
+git sta
+touch git_notes.txt
+git branch git-notes
+git la
+git log
+git commit -m 'Add notes about hidden folder'
+git add unix_notes.txt 
+subl unix_notes.txt 
+cd uge_workshop/
+cd
+git commit -m 'Add unix notes'
+git s
+la
+git init
+mv moving_around.txt uge_workshop/unix_notes.txt
+ll
+mkdir uge_workshop
+subl moving_around.txt 
+history >> moving_around.txt
+history > moving_around.txt
+ls -l
+ls
+man less
+history | less
+history -r
+history
+ls ~
+cd ../..
+cd Documents/
+pwd
+cd ~
+ls Desktop/
+man ls
+ls -ltS
+ls -lSt
+ls -ltsL
+ls -gtr
+gs ltr
+ls -ma n
+ls -ltr
+ls -lr
+sl -lr
+ls-lr
+ls -r
+ls -lt
+ls -t
+cd /
+sudo apt-get check
+ls -G
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'stephanmbosch@gmail.com'
+git config --global user.name 'Stephan Bosch'
+git --version
+sudo apt-get install -y git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudo apt-get install -y sublime-text-installer
+echo $SHELL
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io.beJs | ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+uname
+sudo sublime text 2 /etc/hostname /etc/hosts
+sudo sublime text 2 /etc/hosts
+sudo sublime /usr/share/applications/defaults.list
+sudo apt-get install sublime-text
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+tar xf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+tar xf Sublime\ Text\ 2.0.1\ x64.tar.bz2
+sudo mv Sublime\ Text\ 2 /opt/
+sudo gedit /etc/hostname /etc/hosts
+sudo hostname Poseidon
+sudo update-grub
+sudo gedit /etc/default/grub
+sudo gedit /boot/grub/grub.cfg
+sudo text-editor /etc/default/grub
+sudo sublimetext /etc/default/grub
+sudo sublime-text /etc/default/grub
+sudo sublime text /etc/default/grub
+sudo vim /etc/default/grub
+sudo apt-get install -y --force-yes grub-efi-amd64-signed shim-signed linux-signed-generic
+sudo apt-get purge -y --force-yes grub*-common grub-common:i386 shim-signed linux-signed*
+sudo apt-get install -fy
+sudo dpkg --configure -a
+sudo apt-get install grub-customizer
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+sudo apt-get install -y boot-repair && boot-repair
+sudo add-apt-repository ppa:yannubuntu/boot-repair
+sudo repository ppa:yannubuntu/boot-repair
+add-apt-repository ppa:yannubuntu/boot-repair
+DDDDDDDDDDDDDDDPOOOOOOooooooooooooooooooo
